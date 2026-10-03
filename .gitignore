@@ -1,0 +1,28 @@
+# ---- R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+Rplots.pdf
+
+# ---- Sistema e ferramentas locais
+.DS_Store
+.claude/
+
+# ---- Dados (não versionados: tamanho e política de uso; ver README)
+BD/
+*.RData
+*.rda
+*.rds
+INFLUD*.csv
+
+# ---- Resultados (gerados pelo script de reprodução)
+resultados/
+
+# ---- Temporários
+*.log
+*.tmp
+*.bak
+
+# ---- CatBoost (log gerado a cada treino)
+catboost_info/
