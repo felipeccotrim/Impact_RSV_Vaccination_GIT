@@ -1,4 +1,5 @@
-# IMPACTO_VACINA_VSR_BRA — Código de reprodução do artigo
+# IMPACTO_VACINA_VSR_BRA
+## Código de reprodução 
 
 Código de reprodução do estudo **"Potential impact of maternal vaccination against respiratory syncytial virus on severe acute respiratory infections in infants up to six months of age in Brazil, 2026"** (manuscrito em preparação).
 
